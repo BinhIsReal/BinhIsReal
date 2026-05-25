@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/badge/Hello%2C%20BinhIsReal-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <h1> 👋 Welcome to my world! 🌏  </h1>
+  <h1> 👋 Welcome </h1>
   
   <br>
   <p>
@@ -21,10 +21,6 @@
   <a href="dambinhbk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 ---
@@ -59,7 +55,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
